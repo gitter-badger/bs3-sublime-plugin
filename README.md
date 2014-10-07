@@ -1,5 +1,6 @@
 Bootstrap 3 - Sublime Plugin
 ==================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/cr2a-graphique/bs3-sublime-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A sublime plugin complete with Bootstrap 3 snippets
 
